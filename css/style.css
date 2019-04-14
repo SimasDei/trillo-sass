@@ -80,8 +80,7 @@ body {
 
 .hotel-view {
   background-color: #fff;
-  flex: 1;
-  height: 80rem; }
+  flex: 1; }
 
 .legal {
   font-size: 1.2rem;
@@ -100,7 +99,8 @@ body {
   box-shadow: var(--shadow-light);
   padding: 3rem;
   flex: 0 0 60%;
-  margin-right: 4.5rem; }
+  margin-right: 4.5rem;
+  font-size: 1.4rem; }
 
 .user-reviews {
   background: violet;
